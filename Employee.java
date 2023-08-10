@@ -1,3 +1,3 @@
 class{
-    String:"surbhi"
-}
+    String:"surbhi";
+    number:12345;
